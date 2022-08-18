@@ -1,0 +1,13 @@
+public class Main 
+{
+  public static void main(String[] args)
+   {
+    double Double = 9.78d;
+    
+    int Int = (int) Double; 
+    
+   System.out.println(Double);
+   
+    System.out.println(Int);      
+  }
+}
